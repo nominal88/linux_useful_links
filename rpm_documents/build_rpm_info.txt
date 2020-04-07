@@ -1,0 +1,8 @@
+RPM Packaging
+https://rpm-packaging-guide.github.io/ 
+
+Install Winetricks
+https://wiki.winehq.org/Winetricks
+
+Build Wine RPM
+http://crazytechthoughts.blogspot.com/2018/06/build-wine-rpm-with-32-bit-application.html
